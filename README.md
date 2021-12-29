@@ -1,30 +1,28 @@
-# SMS-BOMBER
-# SMS Bombing With HridoY⚠️⚠️
-
-Command :
-
-
+pkg update
+pkg upgrade
+pkg install git
+pkg install python
+pkg install python2
+pip2 install requests
+pip2 install mechanize
 pkg install python -y
-
 pkg install git 
-
 pip install requests
-
 git clone https://github.com/HridoY-Ahammed-Nirob/SMS-BOMBER
-
-
 cd SMS-BOMBER
-
 ls
-
 python Hridoy.py
 
-Notice : 🗣️🗣️
-««--WelCome To HridoY SMS-BOMBER Tool New Update--»»           
-«-----------------Disclaimer---------------»                    This Tool is for Educational Purpose                  This presentation is for educational                       purposes ONLY.How you use this information                 is your responsibility.I will not be                       held accountable This Tool/Channel Doesn't
-Support illegal activities.for any illegal
-Activitie This Tool is for Educational Purpose
 
-The Tool Working To Bangladesh Number example : +880
-Unlimited🔴 Bombing🔴(No limite Function)
-Use🟢 For Ethical Working 🚹🚹
+ 🌿 HRIDOY AHAMMED NIROB 🌿
+
+
+  ☣️(BANGLADESH CYBER SECURITY ETHICAL HACKER)☣️
+
+FACEBOOK 🆔: https://www.facebook.com/The.Cyber.BD.Hacker
+
+Pro Premium Apps Seller ✅
+
+MY PAGE : https://www.facebook.com/HridoY.Ahammed.Nirob.Official
+
+Our TERMUX Group: https://www.facebook.com/groups/465431307279839
